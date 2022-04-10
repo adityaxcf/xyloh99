@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xyloh99
-- 👀 I’m interested in gaming and coding ig
-- 🌱 I’m currently learning bruh
-- 💞️ I’m looking to collaborate on idrk atm
-- 📫 How to reach me:ig : notdadog
+- Hi, I’m @notdadog
+- I’m interested in gaming and coding ig
+- I’m learning atm lol
+- How to reach me:ig : notdadog
 
 <!---
 xyloh99/xyloh99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
